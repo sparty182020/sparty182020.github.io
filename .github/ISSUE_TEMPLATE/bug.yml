@@ -17,7 +17,7 @@ body:
         - label: I have checked other issues for similar bug reports
           required: true
         - label: I have checked that it is not due to a configuration setting on my computer
-           required: true
+          required: true
         - label: I have a working fix for this bug
           required: false
   - type: input
